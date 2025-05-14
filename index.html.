@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página de Botones</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Página de Botones</h1>
+    <button class="btn-rojo" onclick="cambiarColor('rojo')">Rojo</button>
+    <button class="btn-amarillo" onclick="cambiarColor('amarillo')">Color Amarillo</button>
+    <button class="btn-azul" onclick="cambiarColor('azul')">Color Azul</button>
+    <script src="script.js"></script>
+</body>
+</html>
